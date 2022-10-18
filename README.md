@@ -7,12 +7,12 @@ Projeto construído no módulo de CSS do curso de formação Full Stack do <a hr
 <i>Versão desktop</i> :point_down:
 <br>
 <br>
-<img src="https://raw.githubusercontent.com/AlineGuiseline/We-care/master/assets/we%20care%20-%20desktop.png" height="640px" width="990px">
+<img src="https://raw.githubusercontent.com/AlineGuiseline/We-care/master/assets/we%20care%20-%20desktop.png" height="350px" width="550px">
 
 <i>Versão mobile</i> :point_down:
 <br>
 <br>
-<img src="https://raw.githubusercontent.com/AlineGuiseline/We-care/master/assets/we%20care%20-%20mobile.png"  height="670px" width="320px">
+<img src="https://raw.githubusercontent.com/AlineGuiseline/We-care/master/assets/we%20care%20-%20mobile.png" height="500px" width="220px">
 
 ## 🛠️ Tecnologias
 
